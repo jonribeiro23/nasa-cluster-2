@@ -1,0 +1,14 @@
+Flask-JWT-Extended
+Flask-RESTful
+flask-cors
+Flask~=1.1.2
+Werkzeug~=1.0.1
+pymongo~=3.11.2
+PyJWT~=1.7.1
+dnspython
+psycopg2
+requests~=2.25.1
+uwsgi
+fsspec
+pandas
+nltk
